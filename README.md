@@ -1,7 +1,7 @@
-#Side Hustle Internship
+# Side Hustle Internship
 Side Hustle Internship is an internship programme organized by the named group in partnership with Jobberman.
 
-#Side Hustle Group-10(CSS)
+# Side Hustle Group-10(CSS)
 Side Hustle group 10 Capstone (CSS) Project
 
 # Front-end Style Guide
