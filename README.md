@@ -2,9 +2,10 @@
 Side Hustle Internship is an internship programme organized by the named group in partnership with Jobberman.
 
 # Side Hustle Group-10(CSS)
-Side Hustle group 10 Capstone (CSS) Project
+Side Hustle group 10 Capstone (CSS) Project.
 
-#Team
+# Team
+
 *   [Team Lead](https://t.me/dandollar1)
 *   [enweazudaniel](https://github.com/enweazudaniel)
 *   [Assistant Team Lead](https://t.me/Ajibola_1)
