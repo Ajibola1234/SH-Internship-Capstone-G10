@@ -8,15 +8,19 @@ Side Hustle group 10 Capstone (CSS) Project.
 	Team Lead
 *   [Telegram](https://t.me/dandollar1)
 *   [enweazudaniel](https://github.com/enweazudaniel)
+#
 	Assistant Team Lead
 *   [Telegram](https://t.me/Ajibola_1)
 *   [Ajibola1234](https://github.com/Ajibola1234)
+#
 	Team Member
 *   [Telegram](https://t.me/)
 *   [Abioye Qurrotulayn](https://github.com/Joyayn)
+#
 	Team Member
 *   [Telegram](https://t.me/kekuBT)
 *   [Keku](https://github.com/kekuBT)
+#
 	Team Member
 *   [Telegram](https://t.me/EmmyB4Christ)
 *   [Bamidele Tijani](https://github.com/Emmyb123)
