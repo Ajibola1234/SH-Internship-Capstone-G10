@@ -5,21 +5,22 @@ Side Hustle Internship is an internship programme organized by the named group i
 Side Hustle group 10 Capstone (CSS) Project.
 
 # Team
-
-*   [Team Lead](https://t.me/dandollar1)
+	Team Lead
+*   [Telegram](https://t.me/dandollar1)
 *   [enweazudaniel](https://github.com/enweazudaniel)
-*   [Assistant Team Lead](https://t.me/Ajibola_1)
+	Assistant Team Lead
+*   [Telegram](https://t.me/Ajibola_1)
 *   [Ajibola1234](https://github.com/Ajibola1234)
-*   [Group Member](https://t.me/)
+	Team Member
+*   [Telegram](https://t.me/)
 *   [Abioye Qurrotulayn](https://github.com/Joyayn)
-*   [Group Member](https://t.me/kekuBT)
+	Team Member
+*   [Telegram](https://t.me/kekuBT)
 *   [Keku](https://github.com/kekuBT)
-*   [Group Member](https://t.me/EmmyB4Christ)
+	Team Member
+*   [Telegram](https://t.me/EmmyB4Christ)
 *   [Bamidele Tijani](https://github.com/Emmyb123)
 
-
-
-# Front-end Style Guide
 
 ## Layout
 
@@ -67,5 +68,7 @@ The designs were created to the following widths:
 For the social icons, you can use a font icon library. Some suggestions can be found below:
 
 - [Font Awesome](https://fontawesome.com/)
-- [IcoMoon](https://icomoon.io/)
-- [Ionicons](https://ionicons.com/)
+
+# Live Link
+ https://enweazudaniel.github.io/SH-Internship-Capstone-G10/
+
