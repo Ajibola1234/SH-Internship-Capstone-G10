@@ -218,17 +218,17 @@ button:hover {
 
 .testimonial-item-reviewer img {
   border-radius: 50%;
-  height: 30px;
-  width: 30px;
+  height: 40px;
+  width: 40px;
 }
 
 .testimonial-item-reviewer-text h4 {
   margin-top: -1%;
-  font-size: 0.82rem;
+  font-size: 0.8rem;
 }
 
 .testimonial-item-reviewer-text p {
-  font-size: 0.9rem;
+  font-size: 0.68rem;
   margin-top: -25%;
 }
 
