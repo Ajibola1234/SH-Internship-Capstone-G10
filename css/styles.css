@@ -199,7 +199,7 @@ button:hover {
 
 .testimonial-item {
   margin-left: 3.5rem;
-  margin-top: -6%;
+  margin-top: -4.5%;
   flex-basis: 33.33%;
   border-radius: 5px;
   background-color: var(--primary-color-dark-blue-4);
@@ -273,7 +273,7 @@ button:hover {
 }
 
 .contact-info {
-  margin-top: 50px;
+  margin-top: 75px;
   padding: var(--padding-footer);
   display: grid;
   background-color: var(--primary-color-dark-blue-3);
