@@ -5,25 +5,25 @@ Side Hustle Internship is an internship programme organized by the named group i
 Side Hustle group 10 Capstone (CSS) Project.
 
 # Team
-	Team Lead
+		Enweazu Daniel - Team Lead
 *   [Telegram](https://t.me/dandollar1)
-*   [enweazudaniel](https://github.com/enweazudaniel)
+*   [Github](https://github.com/enweazudaniel)
 #
-	Assistant Team Lead
+		Ajibola Alade - Assistant Team Lead
 *   [Telegram](https://t.me/Ajibola_1)
-*   [Ajibola1234](https://github.com/Ajibola1234)
+*   [Github](https://github.com/Ajibola1234)
 #
-	Team Member
+		Abioye Qurrotulayn - Team Member
 *   [Telegram](https://t.me/)
-*   [Abioye Qurrotulayn](https://github.com/Joyayn)
+*   [Github](https://github.com/Joyayn)
 #
-	Team Member
+		Keku Belina - Team Member
 *   [Telegram](https://t.me/kekuBT)
-*   [Keku](https://github.com/kekuBT)
+*   [Github](https://github.com/kekuBT)
 #
-	Team Member
+		Bamidele Tijani - Team Member
 *   [Telegram](https://t.me/EmmyB4Christ)
-*   [Bamidele Tijani](https://github.com/Emmyb123)
+*   [Github](https://github.com/Emmyb123)
 
 
 ## Layout
@@ -75,4 +75,3 @@ For the social icons, you can use a font icon library. Some suggestions can be f
 
 # Live Link
  https://enweazudaniel.github.io/SH-Internship-Capstone-G10/
-
