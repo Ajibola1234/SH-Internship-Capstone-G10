@@ -199,7 +199,7 @@ button:hover {
 
 .testimonial-item {
   margin-left: 3.5rem;
-  margin-top: -4.5%;
+  margin-top: -3.8%;
   flex-basis: 33.33%;
   border-radius: 5px;
   background-color: var(--primary-color-dark-blue-4);
@@ -438,7 +438,7 @@ footer i {}
 
   .testimonial-item {
     margin-left: 0;
-    margin-top: 3rem;
+    margin-top: 2.7rem;
     width: 80%;
   }
 
