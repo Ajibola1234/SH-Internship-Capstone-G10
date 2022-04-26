@@ -63,6 +63,10 @@ a {
   text-decoration: none;
 }
 
+.nav-bar ul li a:hover {
+  text-decoration: underline;
+}
+
 header {
   display: flex;
   padding: var(--padding-md);
