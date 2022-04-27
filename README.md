@@ -4,12 +4,9 @@ Side Hustle Internship is an internship programme organized by the named group i
 # Side Hustle Group-10(CSS)
 Side Hustle group 10 Capstone (CSS) Project.
 
-# Team
-		Enweazu Daniel - Team Lead
-*   [Telegram](https://t.me/dandollar1)
-*   [Github](https://github.com/enweazudaniel)
+
 #
-		Ajibola Alade - Assistant Team Lead
+		Ajibola Alade - Team Lead
 *   [Telegram](https://t.me/Ajibola_1)
 *   [Github](https://github.com/Ajibola1234)
 #
@@ -17,7 +14,7 @@ Side Hustle group 10 Capstone (CSS) Project.
 *   [Telegram](https://t.me/)
 *   [Github](https://github.com/Joyayn)
 #
-		Keku Belina - Team Member
+		Keku Belina - Assistant Team lead
 *   [Telegram](https://t.me/kekuBT)
 *   [Github](https://github.com/kekuBT)
 #
